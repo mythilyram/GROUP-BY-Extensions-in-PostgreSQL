@@ -20,7 +20,7 @@ This table has the following columns: full_name, week, category, and score.
 Exercise
 SELECT * FROM contest_score
 
-full_name	week	category	score
+/*full_name	week	category	score
 Dollie Esquivel	1	Workout	1
 Aadil Castro	1	Workout	1
 Aisling Keller	1	Workout	2
@@ -70,7 +70,7 @@ Dollie Esquivel	5	Knowledge	6
 Aadil Castro	5	Knowledge	4
 Aisling Keller	5	Knowledge	7
 Lucie Muir	5	Knowledge	6
-Fahmida Keith	5	Knowledge	3
+Fahmida Keith	5	Knowledge	3*/
 
 **Get to know the tables – delivery**
 Great! The second table is named delivery; it will be used in our exercises. It is used by a supermarket to keep track of all deliveries.
